@@ -28,17 +28,19 @@ Each time you reach the other side, the level increases and cars move faster.
 
 ## 🚀 Installation & Run
 
+   
 1. **Clone the repository**
+   
    git clone https://github.com/<your-username>/<your-repo>.git
    
 2. **Navigate into the project folder**
    
-   cd <your-repo>
+   cd your-repo-location
    
 3. **Run the game**
    
    python main.py
-   
+
 
 ---
 
